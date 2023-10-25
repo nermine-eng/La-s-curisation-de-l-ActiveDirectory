@@ -1,2 +1,2 @@
-# La-s-curisation-de-l-ActiveDirectory
+# La-securisation-de-l-ActiveDirectory
 Academic project
